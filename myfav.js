@@ -11,4 +11,4 @@ document.querySelectorAll("img").forEach(img => {
     });
   });
 
-  
+  // NAJEBEM TI SE KEVE
