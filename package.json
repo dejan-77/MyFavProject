@@ -1,0 +1,24 @@
+{
+  "name": "myfavproject",
+  "version": "1.0.0",
+  "description": "blahblah",
+  "main": "myfav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejan-77/MyFavProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejan-77/MyFavProject/issues"
+  },
+  "homepage": "https://github.com/dejan-77/MyFavProject#readme"
+
+  "purge:readme": "npx req https://purge.jsdelivr.net/gh/dejan-77/MyFavProject@latest/myfav.js"
+
+  
+
+}
