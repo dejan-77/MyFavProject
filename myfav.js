@@ -1,4 +1,4 @@
 
-gsap.to("#box", {duration: 3, x:-320, y:150, backgroundColor:"blue", rotate:20, yoyo: true, repeat:-1})
+gsap.to("#box", {duration: 3, x:-320, y:15, backgroundColor:"blue", rotate:200, yoyo: true, repeat:2})
 
 
