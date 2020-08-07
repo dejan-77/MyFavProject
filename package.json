@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/dejan-77/MyFavProject#readme"
 
-  "purge:readme": "npx req https://purge.jsdelivr.net/gh/dejan-77/MyFavProject@latest/myfav.js"
 
   
 
