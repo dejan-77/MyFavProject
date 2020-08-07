@@ -1,3 +1,3 @@
 
-gsap.to("#box", {duration: 30, x:200, rotate:10, repeat:-1})
+gsap.to("#box", {duration: 10, x:200, rotate:10, repeat:-1})
 
