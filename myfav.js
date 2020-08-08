@@ -5,5 +5,5 @@ gsap.to("#box", {
     //y:139, 
     backgroundColor:"#D51847", 
     rotate:300, 
-    yoyo: true, 
+   // yoyo: true, 
     repeat:-1})
